@@ -1,5 +1,7 @@
 import React from 'react';
-import './CartItem.css';
+// import './CartItem.css';
+// import './App.css';
+
 
 const CartItem = ({ item, removeFromCart }) => {
   return (
