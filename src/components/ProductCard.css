@@ -1,0 +1,21 @@
+.product-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .add-to-cart-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart-btn:hover {
+    background-color: #218838;
+  }
+  
